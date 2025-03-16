@@ -94,6 +94,7 @@
   <img
     alt="GitHubStats"
     height="200"
+    width="500"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=DevJunin&show_icons=true&theme=dark&include_all_commits=true&locale=en"
   />
