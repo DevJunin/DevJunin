@@ -95,12 +95,13 @@
     alt="GitHubStats"
     height="200"
     width="500"
-    style="padding-right: 10px;"
+    style="padding-right: 7px;"
     src="https://github-readme-stats.vercel.app/api?username=DevJunin&show_icons=true&theme=dark&include_all_commits=true&locale=en"
   />
   <img 
     alt="GitHub Analict Languages"
     height="200"
+    width="500"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJunin&langs_count=8&theme=dark&locale=en&layout=compact"
   />
 </p>          
