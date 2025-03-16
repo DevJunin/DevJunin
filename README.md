@@ -4,15 +4,15 @@
     />
 </p>
 
-# 🤵🏿 Julio Cesar
+<h1 align="center" >🤵🏿 Julio Cesar</h1>
 
 
-My name is Julio Cesar, I'm 25 years old and I'm from Brazil. I'm studying Software Engineering at Uninter, I'm in the 1st period.
+<p align="center">My name is Julio Cesar, I'm 25 years old and I'm from Brazil. I'm studying Software Engineering at Uninter, I'm in the 1st period.</p>
 
 ---
-### 💻 Languages ​​and Technologies
+<h2 align="center" >💻 Languages ​​and Technologies</h2>
 
-<img 
+<img
   align="left"
   alt="Java"
   title="Java"
@@ -84,21 +84,20 @@ My name is Julio Cesar, I'm 25 years old and I'm from Brazil. I'm studying Softw
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
 />
 
+
 <br/>
 <br>
 
-### 📈 Statistics
+<h2 align="center" > 📈 Statistics </h2>
 
-<p>
+<p align="center" >
   <img
-    align="left"
     alt="GitHubStats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=DevJunin&show_icons=true&theme=dark&include_all_commits=true&locale=en"
   />
   <img 
-    align="left"
     alt="GitHub Analict Languages"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJunin&langs_count=8&theme=dark&locale=en&layout=compact"
