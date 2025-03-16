@@ -1,6 +1,6 @@
 <p>
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=6891be&text=Devoper%20BackEnd&section=header&reversal=false&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=6891be&text=Developer%20BackEnd&section=header&reversal=false&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"
     />
 </p>
 
