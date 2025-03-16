@@ -90,7 +90,7 @@
 
 <h2 align="center" > 📈 Statistics </h2>
 
-<p align="center" >
+<p>
   <img
     alt="GitHubStats"
     height="200"
