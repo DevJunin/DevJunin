@@ -10,7 +10,7 @@
 <p align="center">Bem vindo ao meu humilde mundo, sinta-se a vontade!</p>
 
 ---
-<h2 align="center" >💻 LLinguagens e tecnologias</h2>
+<h2 align="center" >💻 Linguagens e tecnologias</h2>
 <div>
   <img
     align="left"
