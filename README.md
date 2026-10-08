@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/dev-julio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="dev__junior@hotmail.com">
+  <a href="mailto:dev__junior@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
 </div>
