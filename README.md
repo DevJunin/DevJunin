@@ -41,6 +41,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
   />
 </p>        
+<br/>
+<br>
+
+<h2 align="center" > 📈 Statistics </h2>
+
 <p>
   <img
     align="left"
