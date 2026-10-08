@@ -1,65 +1,67 @@
-<p>
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=6891be&text=Developer%20BackEnd&section=header&reversal=false&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"
-    />
-</p>
+<!-- Cabeçalho Principal Estilizado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Julio%20Cesar&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<h1 align="center" >🤵🏿 Julio Cesar</h1>
+  <h3>🚀 Desenvolvedor Back-End</h3>
 
+  <p>Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, focado em construir soluções eficientes, escaláveis e bem estruturadas para o Back-End.</p>
+</div>
 
-<p align="center">Bem vindo ao meu humilde mundo, sinta-se a vontade!</p>
+<br/>
 
 ---
-<h2 align="center">💻 Linguagens e tecnologias</h2>
 
-<p align="center">
-  <img
-    alt="Java"
-    title="Java"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-  />
-  &nbsp;
-  <img
-    alt="Spring"
-    title="Spring"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-  />
-  &nbsp;
-  <img
-    alt="MySQL"
-    title="MySQL"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-  />
-  &nbsp;
-  <img
-    alt="Git"
-    title="Git"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
-  />
-</p>        
+<!-- Redes Sociais e Contato -->
+<div align="center">
+  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
 <br/>
-<br>
 
-<h2 align="center" > 📈 Statistics </h2>
+---
 
-<p>
-  <img
-    align="left"
-    alt="GitHubStats"
-    height="200"
-    width="425"
-    style="padding-right: 7px;"
-    src="https://github-readme-stats.vercel.app/api?username=DevJunin&show_icons=true&theme=dark&include_all_commits=true&locale=en"
-  />
-  <img 
-    align="left"
-    alt="GitHub Analict Languages"
-    height="200"
-    width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJunin&langs_count=8&theme=dark&locale=en&layout=compact"
-  />
-</p>
+## 🛠️ Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<br/>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJunin&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJunin&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Utilizadas" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJunin&theme=dark" alt="Sequência de Commits" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <sub><i>Projetado e desenvolvido por Julio Cesar.</i></sub>
+</div>
