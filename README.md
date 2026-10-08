@@ -10,64 +10,34 @@
 <p align="center">Bem vindo ao meu humilde mundo, sinta-se a vontade!</p>
 
 ---
-<h2 align="center" >💻 Linguagens e tecnologias</h2>
-<div>
+<h2 align="center">💻 Linguagens e tecnologias</h2>
+
+<p align="center">
   <img
-    align="left"
     alt="Java"
     title="Java"
-    width="40px"
+    width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
   />
-  
-  <img 
-    align="left"
+  &nbsp;
+  <img
     alt="Spring"
     title="Spring"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
   />
-  
-  
-  <img 
-    align="left"
-    alt="MySql"
-    title="MySql"
-    width="40px"
+  &nbsp;
+  <img
+    alt="MySQL"
+    title="MySQL"
+    width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
   />
-
-  
-  <img 
-    align="left"
+  &nbsp;
+  <img
     alt="Git"
     title="Git"
-    width="40px"
+    width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
   />
-  
-</div>
-
-
-<br/>
-<br>
-
-<h2 align="center" > 📈 Statistics </h2>
-
-<p>
-  <img
-    align="left"
-    alt="GitHubStats"
-    height="200"
-    width="425"
-    style="padding-right: 7px;"
-    src="https://github-readme-stats.vercel.app/api?username=DevJunin&show_icons=true&theme=dark&include_all_commits=true&locale=en"
-  />
-  <img 
-    align="left"
-    alt="GitHub Analict Languages"
-    height="200"
-    width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJunin&langs_count=8&theme=dark&locale=en&layout=compact"
-  />
-</p>          
+</p>        
